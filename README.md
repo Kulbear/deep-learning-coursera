@@ -34,6 +34,9 @@ Currently, this repo has 3 major parts you may be interested in and I will give 
   - [Week 3 - PA 5 - TensorFlow Tutorial](https://github.com/Kulbear/deep-learning-coursera/blob/master/Improving%20Deep%20Neural%20Networks%20Hyperparameter%20tuning%2C%20Regularization%20and%20Optimization/Tensorflow%20Tutorial.ipynb)
 
 - Course 3: Structuring Machine Learning Projects
+
+  - There is no PA for this course. But this course comes with very interesting case study quizzes.
+  
 - Course 4: Convolutional Neural Networks
 - Course 5: Sequence Models
 
@@ -51,7 +54,12 @@ Currently, this repo has 3 major parts you may be interested in and I will give 
   - [Week 1 Quiz - Practical aspects of deep learning](https://github.com/Kulbear/deep-learning-coursera/blob/master/Improving%20Deep%20Neural%20Networks%20Hyperparameter%20tuning%2C%20Regularization%20and%20Optimization/Week%201%20Quiz%20-%20Practical%20aspects%20of%20deep%20learning.md)
   - [Week 2 Quiz - Optimization algorithms](https://github.com/Kulbear/deep-learning-coursera/blob/master/Improving%20Deep%20Neural%20Networks%20Hyperparameter%20tuning%2C%20Regularization%20and%20Optimization/Week%202%20Quiz%20-%20Optimization%20algorithms.md)
   - [Week 3 Quiz - Hyperparameter tuning, Batch Normalization, Programming Frameworks](https://github.com/Kulbear/deep-learning-coursera/blob/master/Improving%20Deep%20Neural%20Networks%20Hyperparameter%20tuning%2C%20Regularization%20and%20Optimization/Week%203%20Quiz%20-%20Hyperparameter%20tuning%2C%20Batch%20Normalization%2C%20Programming%20Frameworks.md)
+  
 - Course 3: Structuring Machine Learning Projects
+
+  - [Week 1 Quiz - Bird recognition in the city of Peacetopia (case study)](https://github.com/Kulbear/deep-learning-coursera/blob/master/Structuring%20Machine%20Learning%20Projects/Week%201%20Quiz%20-%20Bird%20recognition%20in%20the%20city%20of%20Peacetopia%20(case%20study).md)
+  - [Week 2 Quiz - Autonomous driving (case study)](https://github.com/Kulbear/deep-learning-coursera/blob/master/Structuring%20Machine%20Learning%20Projects/Week%202%20Quiz%20-%20Autonomous%20driving%20(case%20study).md)
+
 - Course 4: Convolutional Neural Networks
 - Course 5: Sequence Models
 
@@ -68,3 +76,8 @@ I screenshotted some important slide page and store them into GitHub issues.
 - Screenshots for Course 4: Convolutional Neural Networks
 
 - Screenshots for Course 5: Sequence Models
+
+
+## Milestones
+
+  - **2017-08-17**: Finished the first-released 3 courses, YAY! 😈
