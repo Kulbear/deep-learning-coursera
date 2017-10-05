@@ -14,7 +14,7 @@
     - [x] We have access to a lot more computational power.
     - [ ] Neural Networks are a brand new field.
     - [x] We have access to a lot more data.
-    - [ ] Deep learning has resulted in significant improvements in important applications such as online advertising, speech recognition, and image recognition.
+    - [x] Deep learning has resulted in significant improvements in important applications such as online advertising, speech recognition, and image recognition.
     
 3. Recall this diagram of iterating over different ML ideas. Which of the statements below are true? (Check all that apply.)
 
