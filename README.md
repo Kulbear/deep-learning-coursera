@@ -46,6 +46,9 @@ Currently, this repo has 3 major parts you may be interested in and I will give 
   
 - Course 5: Sequence Models
 
+  - [Week 1 - PA 1 - Building a Recurrent Neural Network - Step by Step](https://github.com/Kulbear/deep-learning-coursera/blob/master/Sequence%20Models/Building%20a%20Recurrent%20Neural%20Network%20-%20Step%20by%20Step%20-%20v2.ipynb)
+  - [Week 1 - PA 2 - Character level language model - Dinosaurus land](https://github.com/Kulbear/deep-learning-coursera/blob/master/Sequence%20Models/Dinosaurus%20Island%20--%20Character%20level%20language%20model%20final%20-%20v3.ipynb)
+
 ## Quiz Solutions
 
 There are concerns that some people may use the content here to quickly ace the course so I'll no longer update any quiz solution.
@@ -68,22 +71,22 @@ There are concerns that some people may use the content here to quickly ace the 
   - [Week 1 Quiz - Bird recognition in the city of Peacetopia (case study)](https://github.com/Kulbear/deep-learning-coursera/blob/master/Structuring%20Machine%20Learning%20Projects/Week%201%20Quiz%20-%20Bird%20recognition%20in%20the%20city%20of%20Peacetopia%20(case%20study).md)
   - [Week 2 Quiz - Autonomous driving (case study)](https://github.com/Kulbear/deep-learning-coursera/blob/master/Structuring%20Machine%20Learning%20Projects/Week%202%20Quiz%20-%20Autonomous%20driving%20(case%20study).md)
 
-- ~~Course 4: Convolutional Neural Networks~~
-- ~~Course 5: Sequence Models~~
+~~- Course 4: Convolutional Neural Networks~~
+~~- Course 5: Sequence Models~~
 
-## Important Slide Notes
+~~## Important Slide Notes~~
 
-I screenshotted some important slide page and store them into GitHub issues. It seems not very helpful for everyone since I only keep those I think may be useful to me.
+~~I screenshotted some important slide page and store them into GitHub issues. It seems not very helpful for everyone since I only keep those I think may be useful to me.~~
 
-- [Screenshots for Course 1: Neural Networks and Deep Learning](https://github.com/Kulbear/deep-learning-coursera/issues/1)
+~~- [Screenshots for Course 1: Neural Networks and Deep Learning](https://github.com/Kulbear/deep-learning-coursera/issues/1)~~
 
-- [Screenshots for Course 2: Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization](https://github.com/Kulbear/deep-learning-coursera/issues/2)
+~~- [Screenshots for Course 2: Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization](https://github.com/Kulbear/deep-learning-coursera/issues/2)~~
 
-- [Screenshots for Course 3: Structuring Machine Learning Projects](https://github.com/Kulbear/deep-learning-coursera/issues/3)
+~~- [Screenshots for Course 3: Structuring Machine Learning Projects](https://github.com/Kulbear/deep-learning-coursera/issues/3)~~
 
-- [Screenshots for Course 4: Convolutional Neural Networks](https://github.com/Kulbear/deep-learning-coursera/issues/14)
+~~- [Screenshots for Course 4: Convolutional Neural Networks](https://github.com/Kulbear/deep-learning-coursera/issues/14)~~
 
-- Screenshots for Course 5: Sequence Models
+~~- Screenshots for Course 5: Sequence Models~~
 
 
 ## Milestones
