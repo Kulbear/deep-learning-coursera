@@ -8,10 +8,11 @@
 
     - Come from the same distribution
     
-3. If your Neural Network model seems to have high variance, what of the following would be promising things to try?
+3. If your Neural Network model seems to have high bias, what of the following would be promising things to try? (Check all that apply.)
 
-    - Add regularization
-    - Get more training data
+    - Increase the number of units in each hidden layer
+    - Get more test data
+    - Make the Neural Network deeper
     
     Note: Check [here](https://user-images.githubusercontent.com/14886380/29240263-f7c517ca-7f93-11e7-8549-58856e0ed12f.png).
 
